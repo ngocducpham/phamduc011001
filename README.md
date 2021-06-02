@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @phamduc011001
+- 👋 Hi, I’m @october-xxi
 - 👀 I’m interested in Code
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on HCMUTE
